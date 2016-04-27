@@ -14,4 +14,6 @@ Every member of the developer team is expected to work hard, be considerate of t
 
 **Be respectful toward remote and IRL (In Real Life) interactions alike.** Every member of our team is remote at least some of the time. Adopt habits that are inclusive and productive for team members wherever they are: make liberal use of video hangouts, document meetings and decisions thoroughly, and pay attention to timezones when scheduling events. 
 
+**Be respectful of cultural differences.** Estately is comprised of people from many different countries and different backgrounds. Try and keep that in mind when interacting with your co-workers. Limit cultural references that would exclude people and keep in mind that English isn't everyone's primary language.
+
 **Be humane.** Be polite and friendly in all forms of communication, especially remote communication, where opportunities for misunderstanding are greater. Use sarcasm carefully. Tone is hard to decipher online; make judicious use of emoji to aid in communication. Use video hangouts and IRL meetings when it makes sense; face-to-face discussion benefits from all kinds of social cues that may go missing in other forms of communication. 
